@@ -3,11 +3,11 @@
 [![N|Solid](http://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/128/Folder-icon.png)](http://ec2-13-59-77-129.us-east-2.compute.amazonaws.com/~robertlandlord/uploadtestmain.html)
 
 File Share is a file sharing site that does the most basic of tasks. It can be found at: http://ec2-13-59-77-129.us-east-2.compute.amazonaws.com/~robertlandlord/uploadtestmain.html or by pressing the image above.
-Partners: Robert Landlord and Graham Rubin
 
-# Creative Portion
 
-For our creative portion, we created the functionality to both create new users and delete existing users. 
+# Features
+
+There is the functionality to both create new users and delete existing users. 
 From the initial login page, those without current accounts can create a user.
 
 
