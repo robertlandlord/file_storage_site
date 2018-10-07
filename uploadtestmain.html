@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>File upload</title>
+        <link rel="stylesheet" href="uploadtestmainstyles.css">
+    </head>
+    <body>
+        <form name="usercheck" action="userenter.php" method="post">
+            <!--username button-->
+            <p>
+                <label>
+                    Please enter your username:
+                </label>
+                <input type="text" name="username">
+                <input type="submit" name="usersubmit" value="Log in">
+            </p>    
+        </form>
+        <!--new user button-->
+        <form name="makeuser" action="makeuser.php" method="post">
+            <p>
+               <label>
+                    New Users:
+                </label>
+                <input type="text" name="newuser">
+                <input type="submit" name="newusersubmit" value="Create"> 
+            </p>
+        </form>
+        <!--delete user button-->
+        <form name="deleteuser" action="deleteuser.php" method="post">
+            <p>
+                <label>
+                    Delet User:
+                </label>
+                <input type="text" name="deletuser">
+                <input type="submit" name="deletsubmit" value="delet urself">
+            </p>
+        </form>
+    </body>
+</html>
+    
